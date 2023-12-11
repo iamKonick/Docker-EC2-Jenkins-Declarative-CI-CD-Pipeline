@@ -5,7 +5,7 @@ pipeline {
         stage("Clone Code"){
             steps {
                 echo "Cloning the code"
-                git url:"https://github.com/LondheShubham153/django-notes-app.git", branch: "main"
+                git url:"https://github.com/iamKonick/Docker-EC2-Jenkins-Declarative-CI-CD-Pipeline", branch: "main"
             }
         }
         stage("Build"){
