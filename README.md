@@ -9,7 +9,7 @@ This is a simple notes app built with React and Django.
 ## Installation
 1. Clone the repository
 ```
-git clone [https://github.com/iamKonick/Docker-EC2-Jenkins-Declarative-CI-CD-Pipeline]
+git clone https://github.com/iamKonick/Docker-EC2-Jenkins-Declarative-CI-CD-Pipeline
 ```
 
 2. Build the app
